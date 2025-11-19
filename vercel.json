@@ -19,6 +19,9 @@
         }
       ]
     }
-  ]
+  ],
+  "env": {
+    "CSS_TRANSFORMER_WASM": "1"
+  }
 }
 
